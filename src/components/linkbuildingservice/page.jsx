@@ -7,8 +7,8 @@ import SEOLinkBuildingServices from "./SEOLinkBuildingServices"
 import TheBestLinkBuildingServiceForYourBusiness from "./TheBestLinkBuildingServiceForYourBusiness"
 import WhiteLabelLinkBuildingSolutions from "./WhiteLabelLinkBuildingSolutions"
 import WhyChooseThriveForYourLinkBuildingServices from "./WhyChooseThriveForYourLinkBuildingServices"
-import DataDrivenSEOLinkBuildingSolutions from "./DataDrivenSEOLinkBuildingSolutions"
 import GetMyFreeDigitalMarketingProposal from "../searchengineoptimizationseo/GetMyFreeDigitalMarketingProposal"
+import YouHaveveFinallyFoundtheRightSEOCompanyWithAnswers from "../searchengineoptimizationseo/YouHaveFinallyFoundtheRightSEOCompanyWithAnswers"
 const page = () => {
     return (
         <>
@@ -22,7 +22,7 @@ const page = () => {
             <TheBestLinkBuildingServiceForYourBusiness />
             <WhiteLabelLinkBuildingSolutions />
             <WhyChooseThriveForYourLinkBuildingServices />
-            <DataDrivenSEOLinkBuildingSolutions />
+            <YouHaveveFinallyFoundtheRightSEOCompanyWithAnswers />
             <GetMyFreeDigitalMarketingProposal />
         </>
 

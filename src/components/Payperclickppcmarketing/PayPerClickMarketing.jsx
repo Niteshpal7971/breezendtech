@@ -1,5 +1,5 @@
 import React from 'react'
-import payperclickppcmarketing from '../pay-per-click-ppc-marketing'
+import payperclickppcmarketing from '../../app/pay-per-click-ppc-marketing'
 
 const PayPerClickMarketing = () => {
     return (
